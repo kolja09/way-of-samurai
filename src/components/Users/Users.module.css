@@ -1,0 +1,54 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.userInfo {
+    display: flex;
+    padding: 20px;
+}
+
+.followed {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button button {
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 20px;
+    background-color: orange;
+}
+
+.info {
+    padding: 5px;
+    position: relative;
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+
+.name {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.location {
+    font-size: 18px;
+}
+
+.country {
+    margin-bottom: 7px;
+}
+
+.photo {
+    width: 70px;
+    margin-bottom: 10px;
+}
+

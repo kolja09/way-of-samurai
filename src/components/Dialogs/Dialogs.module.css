@@ -1,0 +1,36 @@
+.dialogs{
+ display: flex;
+}
+
+.usersItems{
+ padding:20px;
+}
+
+.user{
+ margin-bottom: 10px;
+}
+
+.user a{
+ font-size: 22px;
+ color: white;
+ text-decoration: none;
+}
+
+.user a.active{
+ color: gold;
+}
+
+.messages{
+ font-size: 18px;
+ color: white;
+ margin-left: 30px;
+ padding: 20px;
+}
+
+.message{
+ padding: 5px;
+}
+
+.pushMessage{
+ padding: 10px;
+}
