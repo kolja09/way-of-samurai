@@ -1,0 +1,9 @@
+.profileContainer {
+	padding: 20px;
+}
+
+.profileBlock {
+	padding: 5px;
+	display: flex;
+	align-items: center;
+}
